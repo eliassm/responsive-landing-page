@@ -1,2 +1,2 @@
 # responsive-landing-page
-Responsive landing-page in Bootstrap latest
+Responsive landing-page in Bootstrap 4
